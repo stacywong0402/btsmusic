@@ -1,0 +1,85 @@
+body{
+    background-image: url("https://sabecinternet.co/images/uploads/cute-girls-wallpaper/cute-bts-bangtan-boys-korean-boys-group-hd-wallpaper-for-facebook-profile-pic-44eb2c0c25d384ebf76f602f4c5d23d5-image-145461.jpg");
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.circle{
+    text-align: center;
+    background-image: url("https://40.media.tumblr.com/2c891475f1bde1cdeb1cbdfed1d5f71a/tumblr_nfaw7tqCNA1txg3b3o1_500.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#btstitle{
+    opacity: 0.9;
+    padding:20px 20px 20px 20px;
+}
+.circle img {
+    transition: 1s ease;
+}
+
+.circle img:hover {
+    border-radius:50%;
+    transition: 1s ease;
+}
+#menu{
+    background-image: url("https://lh3.googleusercontent.com/0TTX5DBaybXYD1grBzC58vPpM2hovpAmrbY8j92GPqY=w483-h180-p-no");
+    background-position: center;
+}
+
+#menu li {
+    display: inline;
+    padding-right: 30px;
+    font-family: Papyrus, Century Gothic, sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+#menu a{
+    color: black;
+}
+
+#menu a:hover{
+    background-color: white;
+    opacity: 0.75;
+}
+
+/*HR SETTINGS*/
+#undertitle{
+    height: 30px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px 0 0 0;
+    border-radius: 20px;
+}
+
+#undertitle:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 0 0 2px 0;
+    border-radius: 20px;
+}
+/*-------------------------------------*/
+
+
+a{
+    text-decoration: none;
+    margin:0;
+}
+/********************************/
+.crop {
+    width: 450px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.crop img {
+    width: 400px;
+    height: 300px;
+    margin: -75px 0 0 0px;
+}

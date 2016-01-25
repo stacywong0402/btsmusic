@@ -1,0 +1,234 @@
+body{
+    background-image: url("https://sabecinternet.co/images/uploads/cute-girls-wallpaper/cute-bts-bangtan-boys-korean-boys-group-hd-wallpaper-for-facebook-profile-pic-44eb2c0c25d384ebf76f602f4c5d23d5-image-145461.jpg");
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+#music{
+    font-family: Century Gothic, sans-serif;
+    font-size: 27px;
+}
+
+.circle{
+    text-align: center;
+    background-image: url("https://40.media.tumblr.com/2c891475f1bde1cdeb1cbdfed1d5f71a/tumblr_nfaw7tqCNA1txg3b3o1_500.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#btstitle{
+    opacity: 0.9;
+    padding:20px 20px 20px 20px;
+}
+.circle img {
+    transition: 1s ease;
+}
+
+.circle img:hover {
+    border-radius:50%;
+    transition: 1s ease;
+}
+
+#menu li {
+    display: inline;
+    padding-right: 30px;
+    font-family: Papyrus, Century Gothic, sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+#menu{
+    background-image: url("https://lh3.googleusercontent.com/0TTX5DBaybXYD1grBzC58vPpM2hovpAmrbY8j92GPqY=w483-h180-p-no");
+    background-position: center;
+    opacity: 0.75;
+}
+
+#menu a{
+    color: black;
+}
+#menu a:hover{
+    background-color: white;
+    opacity: 0.75;
+}
+
+/*HR SETTINGS*/
+#undertitle{
+    height: 30px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px 0 0 0;
+    border-radius: 20px;
+}
+
+#undertitle:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 0 0 2px 0;
+    border-radius: 20px;
+}
+/*-------------------------------------*/
+
+/* TABLE SETTINGS */
+.cell > .overlay > img{
+    height:350px;
+    width:350px;
+    padding:15px 20px 15px 30px;
+}
+
+.year{
+    position: relative;
+    bottom: 175px;
+    font-size: 35px;
+    font-family: Century Gothic, sans-serif;
+}
+
+.year:hover{
+    text-shadow: 10px 10px 20px white;
+}
+
+.table{
+    display: table;
+}
+
+.row{
+    display: table-row;
+}
+
+.cell{
+    display: table-cell;
+}
+
+.overlay {
+    position: relative;
+}
+
+.overlay:hover .imgDescription {
+    visibility: visible;
+    opacity: 0.75;
+}
+
+.imgDescription{
+    position: absolute;
+    top: 30px;
+    bottom: 45px;
+    left: 42px;
+    visibility: hidden;
+    opacity: 0;
+    font-family: Century Gothic, sans-serif;
+    width: 327px;
+    height: 325px;
+    color:white;
+}
+
+.imgDescription > p{
+    margin:0;
+}
+
+.imgDescription > a > p {
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    margin:0;
+}
+
+/* ---------------------------------------*/
+#I_NEED_U {
+    background-color:#FF99CC;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+#I_NEED_U > a:link{
+    color:white
+}
+
+#I_NEED_U > a:hover{
+    color: #FF66CC;
+}
+
+
+#BOY_IN_LUV{
+    background-color: #66FF33;
+}
+
+#BOY_IN_LUV > a:link{
+    color:white;
+}
+
+#BOY_IN_LUV > a:hover{
+    color: #66CC33;
+}
+
+#MISS_RIGHT{
+    background-color: #66CCCC;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+#MISS_RIGHT > a:link{
+    color:white
+}
+
+#MISS_RIGHT > a:hover{
+    color: #6699CC;
+}
+
+#NO{
+    box-shadow: 5px 5px 5px #888888;
+    background-color: #FF3333
+}
+
+#NO > a:link{
+    color:white
+}
+
+#NO > a:hover{
+    color: #FF0033;
+}
+
+#DANGER{
+    background-color: #181818;
+    font-size:15px;
+}
+
+#DANGER > a:link{
+    color:white
+}
+
+#DANGER > a:hover{
+    color: black;
+}
+
+#SKOOL{
+    background-color: #CCFF66;
+}
+
+#SKOOL > a:link{
+    color:white
+}
+
+#SKOOL > a:hover{
+    color: #FFFF66;
+}
+
+
+/* ANIMATION */
+.tilt {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.tilt:hover {
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    -o-transform: rotate(10deg);
+    -ms-transform: rotate(10deg);
+    transform: rotate(10deg);
+}
+/*--------------------------------*/
+
